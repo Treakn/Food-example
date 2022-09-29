@@ -465,6 +465,10 @@ signup-form-input::placeholder{
 
     }
 
+    .copyright{
+        bottom: 1rem;
+    }
+
 
 }
 
