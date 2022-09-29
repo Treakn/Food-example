@@ -318,13 +318,14 @@ html{
     left: 2rem;
     width: 70%;
     font-size: 1.5rem;
-    font-weight: 300;
+    font-weight: 900;
     letter-spacing: .1rem;
     text-transform: uppercase;
     color: #fff;
     opacity: 0;
     visibility: hidden;
     transition: opacity 2s ease
+    
 }
 
 .gallery-link:hover::before{
@@ -469,6 +470,10 @@ signup-form-input::placeholder{
         bottom: 1rem;
     }
 
+    .food-discription{
+        bottom: 0;
+        left: 1;
+    }
 
 }
 
